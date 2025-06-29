@@ -7,15 +7,14 @@ namespace Presentation.GraphQL.Queries
     public class Query
     {
         [UsePaging]
-        [UseSorting]
+        [UseProjection]
         [UseFiltering]
+        [UseSorting]
         public IQueryable<TaskDto> GetTasks([Service] ITaskService taskService)
         {
             return taskService.GetTasksQuery();
         }
 
-        [UsePaging]
-        [UseSorting]
         public async Task<TaskDto> GetTaskById(Guid id, [Service] ITaskService taskService)
         {
             return await taskService.GetTaskByIdAsync(id);

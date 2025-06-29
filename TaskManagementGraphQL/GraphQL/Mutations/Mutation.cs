@@ -2,8 +2,6 @@
 using Application.DTOs;
 using Application.Interfaces;
 using HotChocolate.Authorization;
-using Infrastructure.Data.Authentication;
-using SharedKernel.Constants;
 
 namespace Presentation.GraphQL.Mutations
 {

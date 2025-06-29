@@ -48,11 +48,10 @@ builder.Services
         options.TokenValidationParameters = 
         new TokenValidationParameters
         {
-            ValidateIssuer = true,
-            ValidateAudience = true,
+            ValidIssuer = builder.Configuration["Jwt:Issuer"],
+            ValidAudience = builder.Configuration["Jwt:Audience"],
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
-            ClockSkew = TimeSpan.Zero,
             IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"])),
         };
     });
@@ -60,8 +59,8 @@ builder.Services
 builder.Services.AddAuthorization();
 
 builder.Services.AddGraphQLServer()
-    .AddAuthorization()
     .RegisterDbContextFactory<AppDbContext>()
+    .AddAuthorization()
     .AddQueryType<Query>()
     .AddMutationType<Mutation>()
     .AddProjections()

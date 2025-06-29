@@ -12,20 +12,15 @@ namespace Application.Mappers
                 Title = task.Title,
                 Description = task.Description,
                 Status = task.Status.ToString(),
-                CreatedAt = task.CreatedAt,
-                CreatedBy = new UserDto
-                {
-                    Id = task.CreatedBy.Id,
-                    Username = task.CreatedBy.Username,
-                    Email = task.CreatedBy.Email.Value
-                },
+                CreatedAt = task.CreatedAt.UtcDateTime,
+                CreatedById = task.CreatedById,
                 Users = task.Users.Any() ? task.Users.Select(x => new UserDto
                 {
                     Id = x.Id,
                     Username = x.Username,
                     Email = x.Email.Value,
                     Role = x.Role.ToString()
-                }).ToList() : null
+                }).ToList() : []
             };
         }
     }
