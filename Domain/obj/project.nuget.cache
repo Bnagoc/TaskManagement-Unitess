@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "saajzlqpZDQ=",
+  "success": true,
+  "projectFilePath": "E:\\dev\\V. Samusev - Unitess - GraphQL\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bnagoc\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

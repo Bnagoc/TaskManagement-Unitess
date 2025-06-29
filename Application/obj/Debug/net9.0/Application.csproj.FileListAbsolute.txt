@@ -1,0 +1,17 @@
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+E:\dev\V. Samusev - Unitess - GraphQL\Application\bin\Debug\net9.0\Application.deps.json
+E:\dev\V. Samusev - Unitess - GraphQL\Application\bin\Debug\net9.0\Application.dll
+E:\dev\V. Samusev - Unitess - GraphQL\Application\bin\Debug\net9.0\Application.pdb
+E:\dev\V. Samusev - Unitess - GraphQL\Application\bin\Debug\net9.0\Domain.dll
+E:\dev\V. Samusev - Unitess - GraphQL\Application\bin\Debug\net9.0\SharedKernel.dll
+E:\dev\V. Samusev - Unitess - GraphQL\Application\bin\Debug\net9.0\Domain.pdb
+E:\dev\V. Samusev - Unitess - GraphQL\Application\bin\Debug\net9.0\SharedKernel.pdb
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Application.dll
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\refint\Application.dll
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\Application.pdb
+E:\dev\V. Samusev - Unitess - GraphQL\Application\obj\Debug\net9.0\ref\Application.dll

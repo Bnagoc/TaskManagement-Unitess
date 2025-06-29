@@ -1,0 +1,11 @@
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+E:\dev\V. Samusev - Unitess - GraphQL\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll

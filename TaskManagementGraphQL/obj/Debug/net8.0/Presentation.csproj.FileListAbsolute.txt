@@ -1,0 +1,7 @@
+E:\dev\V. Samusev - Unitess - GraphQL\TaskManagementGraphQL\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+E:\dev\V. Samusev - Unitess - GraphQL\TaskManagementGraphQL\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\dev\V. Samusev - Unitess - GraphQL\TaskManagementGraphQL\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\V. Samusev - Unitess - GraphQL\TaskManagementGraphQL\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+E:\dev\V. Samusev - Unitess - GraphQL\TaskManagementGraphQL\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+E:\dev\V. Samusev - Unitess - GraphQL\TaskManagementGraphQL\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+E:\dev\V. Samusev - Unitess - GraphQL\TaskManagementGraphQL\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
