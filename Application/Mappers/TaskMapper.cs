@@ -12,7 +12,7 @@ namespace Application.Mappers
                 Title = task.Title,
                 Description = task.Description,
                 Status = task.Status.ToString(),
-                CreatedAt = task.CreatedAt.UtcDateTime,
+                CreatedAt = task.CreatedAt,
                 CreatedById = task.CreatedById,
                 Users = task.Users.Any() ? task.Users.Select(x => new UserDto
                 {

@@ -10,7 +10,7 @@ namespace Presentation.GraphQL.Queries
         [UseProjection]
         [UseFiltering]
         [UseSorting]
-        public IQueryable<TaskDto> GetTasks([Service] ITaskService taskService)
+        public IQueryable<Domain.Entities.Task> GetTasks([Service] ITaskService taskService)
         {
             return taskService.GetTasksQuery();
         }

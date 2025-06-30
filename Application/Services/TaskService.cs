@@ -28,7 +28,7 @@ namespace Application.Services
             _assignTaskToUserCommand = assignTaskToUserCommand;
         }
 
-        public IQueryable<TaskDto> GetTasksQuery()
+        public IQueryable<Domain.Entities.Task> GetTasksQuery()
         {
             return _getTasksQuery.Execute();
         }

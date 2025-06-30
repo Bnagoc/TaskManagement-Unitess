@@ -4,7 +4,7 @@ namespace Application.Interfaces
 {
     public interface ITaskService
     {
-        IQueryable<TaskDto> GetTasksQuery();
+        IQueryable<Domain.Entities.Task> GetTasksQuery();
         Task<TaskDto> GetTaskByIdAsync(Guid id);
         Task<TaskDto> CreateTaskAsync(CreateTaskInput input, Guid createdById);
         Task<TaskDto> AssignTaskToUserAsync(Guid taskId, Guid userId);

@@ -6,7 +6,7 @@
         public string Title { get; set; }
         public string? Description { get; set; }
         public Enums.TaskStatus Status { get; set; } = Enums.TaskStatus.ToDo;
-        public DateTimeOffset CreatedAt { get; set; } = DateTime.UtcNow;
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public User CreatedBy { get; set; }
         public Guid CreatedById { get; set; }
         public virtual List<User> Users { get; set; } = [];

@@ -15,11 +15,9 @@ namespace Application.Queries.Tasks
             _taskMapper = taskMapper;
         }
 
-        public IQueryable<TaskDto> Execute()
+        public IQueryable<Domain.Entities.Task> Execute()
         {
-            var tasks = _taskRepository.GetTasksQuery();
-
-            return tasks?.Select(task => _taskMapper.CreateTaskDto(task));
+            return _taskRepository.GetTasksQuery();
         }
     }
 }
