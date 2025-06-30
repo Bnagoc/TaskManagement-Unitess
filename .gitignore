@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Application/obj/Release/net9.0
+/Domain/obj/Debug/net9.0
+/Infrastructure/obj/Debug/net9.0
+/SharedKernel/obj/Release/net8.0
+/TaskManagementGraphQL/.vs/TaskManagementGraphQL/FileContentIndex
+*.json
+/SharedKernel/obj/Debug/net8.0/SharedKernel.AssemblyInfo.cs
+/SharedKernel/obj/Debug/net8.0/SharedKernel.AssemblyInfoInputs.cache
+/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
